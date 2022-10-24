@@ -1,0 +1,162 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_best_seller": false,
+          "is_trending": true
+        },
+        "category_id": "python",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": { "number": 999, "discount": "30" },
+        "total_enrolled": 488,
+        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "instructor": {
+          "name": "Jakie Chan",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "/images/course_thumbnail_default_13.png",
+        "image_url": "/images/course_thumbnail_default_13.png",
+        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_best_seller": false,
+          "is_trending": true
+        },
+        "category_id": "python",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": { "number": 999, "discount": "30" },
+        "total_enrolled": 488,
+        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "instructor": {
+          "name": "Jakie Chan",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "/images/course_thumbnail_default_13.png",
+        "image_url": "/images/course_thumbnail_default_13.png",
+        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_best_seller": false,
+          "is_trending": true
+        },
+        "category_id": "python",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": { "number": 999, "discount": "30" },
+        "total_enrolled": 488,
+        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "instructor": {
+          "name": "Jakie Chan",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "/images/course_thumbnail_default_13.png",
+        "image_url": "/images/course_thumbnail_default_13.png",
+        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_best_seller": false,
+          "is_trending": true
+        },
+        "category_id": "python",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": { "number": 999, "discount": "30" },
+        "total_enrolled": 488,
+        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "instructor": {
+          "name": "Jakie Chan",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "/images/course_thumbnail_default_13.png",
+        "image_url": "/images/course_thumbnail_default_13.png",
+        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_best_seller": false,
+          "is_trending": true
+        },
+        "category_id": "python",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": { "number": 999, "discount": "30" },
+        "total_enrolled": 488,
+        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "instructor": {
+          "name": "Jakie Chan",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "/images/course_thumbnail_default_13.png",
+        "image_url": "/images/course_thumbnail_default_13.png",
+        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_best_seller": false,
+          "is_trending": true
+        },
+        "category_id": "python",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": { "number": 999, "discount": "30" },
+        "total_enrolled": 488,
+        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "instructor": {
+          "name": "Jakie Chan",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "/images/course_thumbnail_default_13.png",
+        "image_url": "/images/course_thumbnail_default_13.png",
+        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_best_seller": false,
+          "is_trending": true
+        },
+        "category_id": "python",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": { "number": 999, "discount": "30" },
+        "total_enrolled": 488,
+        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "instructor": {
+          "name": "Jakie Chan",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "/images/course_thumbnail_default_13.png",
+        "image_url": "/images/course_thumbnail_default_13.png",
+        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_best_seller": false,
+          "is_trending": true
+        },
+        "category_id": "python",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": { "number": 999, "discount": "30" },
+        "total_enrolled": 488,
+        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "instructor": {
+          "name": "Jakie Chan",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "/images/course_thumbnail_default_13.png",
+        "image_url": "/images/course_thumbnail_default_13.png",
+        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+      }
+]
