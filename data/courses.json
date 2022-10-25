@@ -5,16 +5,54 @@
           "is_best_seller": false,
           "is_trending": true
         },
-        "category_id": "python",
+        "category_id": "javascript",
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 999, "discount": "30" },
+        "price": { "number": 2339, "discount": "30" },
         "total_enrolled": 488,
-        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "title": "Beginner JavaScripot :: Learn JavaScript By Building Projects",
         "instructor": {
-          "name": "Jakie Chan",
+          "name": "Jerry Wood",
           "published_date": "2022-08-24 17:27:34",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
+        "course_modules": [
+          {
+            "module": "Basic Introduction Of JavaScript",
+            "duration": 13
+          },
+          {
+            "module": "JavaScript Variables",
+            "duration": 19
+          },
+          {
+            "module": "JavaScript Data Types",
+            "duration": 25
+          },
+          {
+            "module": "Basic Thoury About Execution Context",
+            "duration": 12
+          },
+          {
+            "module": "JavaScript 'This' keyword",
+            "duration": 21
+          },
+          {
+            "module": "Loops and Functions",
+            "duration": 13
+          },
+          {
+            "module": "ES-6 Syntax",
+            "duration": 129
+          },
+          {
+            "module": "Deep dive into ES-6",
+            "duration": 523
+          },
+          {
+            "module": "JavaScript Advanced Concepts",
+            "duration": 232
+          }
+        ],
         "thumbnail_url": "/images/course_thumbnail_default_13.png",
         "image_url": "/images/course_thumbnail_default_13.png",
         "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
@@ -29,12 +67,50 @@
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
-        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "title": "Learn Data Structure And Algorithm By Solving Problems With JavaScript",
         "instructor": {
           "name": "Jakie Chan",
           "published_date": "2022-08-24 17:27:34",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
+        "course_modules": [
+          {
+            "module": "Basic Introduction Of JavaScript",
+            "duration": 13
+          },
+          {
+            "module": "JavaScript Variables",
+            "duration": 19
+          },
+          {
+            "module": "JavaScript Data Types",
+            "duration": 25
+          },
+          {
+            "module": "Basic Thoury About Execution Context",
+            "duration": 12
+          },
+          {
+            "module": "JavaScript 'This' keyword",
+            "duration": 21
+          },
+          {
+            "module": "Loops and Functions",
+            "duration": 13
+          },
+          {
+            "module": "ES-6 Syntax",
+            "duration": 129
+          },
+          {
+            "module": "Deep dive into ES-6",
+            "duration": 523
+          },
+          {
+            "module": "JavaScript Advanced Concepts",
+            "duration": 232
+          }
+        ],
         "thumbnail_url": "/images/course_thumbnail_default_13.png",
         "image_url": "/images/course_thumbnail_default_13.png",
         "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
@@ -51,10 +127,48 @@
         "total_enrolled": 488,
         "title": "The Complete Python Course | Learn Python by Doing in 2022",
         "instructor": {
-          "name": "Jakie Chan",
+          "name": "TilDa Dalami",
           "published_date": "2022-08-24 17:27:34",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
+        "course_modules": [
+          {
+            "module": "Basic Introduction Of JavaScript",
+            "duration": 13
+          },
+          {
+            "module": "JavaScript Variables",
+            "duration": 19
+          },
+          {
+            "module": "JavaScript Data Types",
+            "duration": 25
+          },
+          {
+            "module": "Basic Thoury About Execution Context",
+            "duration": 12
+          },
+          {
+            "module": "JavaScript 'This' keyword",
+            "duration": 21
+          },
+          {
+            "module": "Loops and Functions",
+            "duration": 13
+          },
+          {
+            "module": "ES-6 Syntax",
+            "duration": 129
+          },
+          {
+            "module": "Deep dive into ES-6",
+            "duration": 523
+          },
+          {
+            "module": "JavaScript Advanced Concepts",
+            "duration": 232
+          }
+        ],
         "thumbnail_url": "/images/course_thumbnail_default_13.png",
         "image_url": "/images/course_thumbnail_default_13.png",
         "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
@@ -71,10 +185,48 @@
         "total_enrolled": 488,
         "title": "The Complete Python Course | Learn Python by Doing in 2022",
         "instructor": {
-          "name": "Jakie Chan",
+          "name": "LinO Hrris",
           "published_date": "2022-08-24 17:27:34",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
+        "course_modules": [
+          {
+            "module": "Basic Introduction Of JavaScript",
+            "duration": 13
+          },
+          {
+            "module": "JavaScript Variables",
+            "duration": 19
+          },
+          {
+            "module": "JavaScript Data Types",
+            "duration": 25
+          },
+          {
+            "module": "Basic Thoury About Execution Context",
+            "duration": 12
+          },
+          {
+            "module": "JavaScript 'This' keyword",
+            "duration": 21
+          },
+          {
+            "module": "Loops and Functions",
+            "duration": 13
+          },
+          {
+            "module": "ES-6 Syntax",
+            "duration": 129
+          },
+          {
+            "module": "Deep dive into ES-6",
+            "duration": 523
+          },
+          {
+            "module": "JavaScript Advanced Concepts",
+            "duration": 232
+          }
+        ],
         "thumbnail_url": "/images/course_thumbnail_default_13.png",
         "image_url": "/images/course_thumbnail_default_13.png",
         "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
@@ -91,10 +243,48 @@
         "total_enrolled": 488,
         "title": "The Complete Python Course | Learn Python by Doing in 2022",
         "instructor": {
-          "name": "Jakie Chan",
+          "name": "Roff Develli",
           "published_date": "2022-08-24 17:27:34",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
+        "course_modules": [
+          {
+            "module": "Basic Introduction Of JavaScript",
+            "duration": 13
+          },
+          {
+            "module": "JavaScript Variables",
+            "duration": 19
+          },
+          {
+            "module": "JavaScript Data Types",
+            "duration": 25
+          },
+          {
+            "module": "Basic Thoury About Execution Context",
+            "duration": 12
+          },
+          {
+            "module": "JavaScript 'This' keyword",
+            "duration": 21
+          },
+          {
+            "module": "Loops and Functions",
+            "duration": 13
+          },
+          {
+            "module": "ES-6 Syntax",
+            "duration": 129
+          },
+          {
+            "module": "Deep dive into ES-6",
+            "duration": 523
+          },
+          {
+            "module": "JavaScript Advanced Concepts",
+            "duration": 232
+          }
+        ],
         "thumbnail_url": "/images/course_thumbnail_default_13.png",
         "image_url": "/images/course_thumbnail_default_13.png",
         "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
@@ -109,12 +299,50 @@
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
-        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "title": "The Complete NodeJS Course | Learn NOdeJS by Doing Projects in 2022",
         "instructor": {
-          "name": "Jakie Chan",
+          "name": "Justin Eiolth",
           "published_date": "2022-08-24 17:27:34",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
+        "course_modules": [
+          {
+            "module": "Basic Introduction Of JavaScript",
+            "duration": 13
+          },
+          {
+            "module": "JavaScript Variables",
+            "duration": 19
+          },
+          {
+            "module": "JavaScript Data Types",
+            "duration": 25
+          },
+          {
+            "module": "Basic Thoury About Execution Context",
+            "duration": 12
+          },
+          {
+            "module": "JavaScript 'This' keyword",
+            "duration": 21
+          },
+          {
+            "module": "Loops and Functions",
+            "duration": 13
+          },
+          {
+            "module": "ES-6 Syntax",
+            "duration": 129
+          },
+          {
+            "module": "Deep dive into ES-6",
+            "duration": 523
+          },
+          {
+            "module": "JavaScript Advanced Concepts",
+            "duration": 232
+          }
+        ],
         "thumbnail_url": "/images/course_thumbnail_default_13.png",
         "image_url": "/images/course_thumbnail_default_13.png",
         "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
@@ -129,12 +357,50 @@
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
-        "title": "The Complete Python Course | Learn Python by Doing in 2022",
+        "title": "The Complete Ruby Course | Explore Ruby in 2022",
         "instructor": {
-          "name": "Jakie Chan",
+          "name": "Alex QUalis",
           "published_date": "2022-08-24 17:27:34",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
+        "course_modules": [
+          {
+            "module": "Basic Introduction Of Ruby",
+            "duration": 13
+          },
+          {
+            "module": "Ruby Variables",
+            "duration": 19
+          },
+          {
+            "module": "Ruby Data Types",
+            "duration": 25
+          },
+          {
+            "module": "Basic Thoury About Execution Context",
+            "duration": 12
+          },
+          {
+            "module": "Ruby Weired Things",
+            "duration": 21
+          },
+          {
+            "module": "Loops and Functions",
+            "duration": 13
+          },
+          {
+            "module": "Ruby Mining",
+            "duration": 129
+          },
+          {
+            "module": "Deep dive into Ruby",
+            "duration": 523
+          },
+          {
+            "module": "Ruby Advanced Concepts",
+            "duration": 232
+          }
+        ],
         "thumbnail_url": "/images/course_thumbnail_default_13.png",
         "image_url": "/images/course_thumbnail_default_13.png",
         "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
@@ -151,10 +417,48 @@
         "total_enrolled": 488,
         "title": "The Complete Python Course | Learn Python by Doing in 2022",
         "instructor": {
-          "name": "Jakie Chan",
+          "name": "Frank Tailwood",
           "published_date": "2022-08-24 17:27:34",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
+        "course_modules": [
+          {
+            "module": "Basic Introduction Of JavaScript",
+            "duration": 13
+          },
+          {
+            "module": "JavaScript Variables",
+            "duration": 19
+          },
+          {
+            "module": "JavaScript Data Types",
+            "duration": 25
+          },
+          {
+            "module": "Basic Thoury About Execution Context",
+            "duration": 12
+          },
+          {
+            "module": "JavaScript 'This' keyword",
+            "duration": 21
+          },
+          {
+            "module": "Loops and Functions",
+            "duration": 13
+          },
+          {
+            "module": "ES-6 Syntax",
+            "duration": 129
+          },
+          {
+            "module": "Deep dive into ES-6",
+            "duration": 523
+          },
+          {
+            "module": "JavaScript Advanced Concepts",
+            "duration": 232
+          }
+        ],
         "thumbnail_url": "/images/course_thumbnail_default_13.png",
         "image_url": "/images/course_thumbnail_default_13.png",
         "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
