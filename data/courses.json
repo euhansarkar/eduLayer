@@ -121,7 +121,7 @@
           "is_best_seller": false,
           "is_trending": true
         },
-        "category_id": "python",
+        "category_id": "R",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
@@ -179,7 +179,7 @@
           "is_best_seller": false,
           "is_trending": true
         },
-        "category_id": "python",
+        "category_id": "Ruby Rails",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
@@ -237,7 +237,7 @@
           "is_best_seller": false,
           "is_trending": true
         },
-        "category_id": "python",
+        "category_id": "Java",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
@@ -295,7 +295,7 @@
           "is_best_seller": false,
           "is_trending": true
         },
-        "category_id": "python",
+        "category_id": "C++",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
@@ -353,7 +353,7 @@
           "is_best_seller": false,
           "is_trending": true
         },
-        "category_id": "python",
+        "category_id": "PHP",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
@@ -411,7 +411,7 @@
           "is_best_seller": false,
           "is_trending": true
         },
-        "category_id": "python",
+        "category_id": "C#",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "price": { "number": 999, "discount": "30" },
         "total_enrolled": 488,
