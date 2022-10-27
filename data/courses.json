@@ -1,466 +1,490 @@
 [
-    {
-        "_id": "0282e0e58a5c404fbd25s61f11c2ab6a",
-        "others_info": {
-          "is_best_seller": false,
-          "is_trending": true
-        },
-        "category_id": "javascript",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 2339, "discount": "30" },
-        "total_enrolled": 488,
-        "title": "Beginner JavaScripot :: Learn JavaScript By Building Projects",
-        "instructor": {
-          "name": "Jerry Wood",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80"
-        },
-        "course_modules": [
-          {
-            "module": "Basic Introduction Of JavaScript",
-            "duration": 13
-          },
-          {
-            "module": "JavaScript Variables",
-            "duration": 19
-          },
-          {
-            "module": "JavaScript Data Types",
-            "duration": 25
-          },
-          {
-            "module": "Basic Thoury About Execution Context",
-            "duration": 12
-          },
-          {
-            "module": "JavaScript 'This' keyword",
-            "duration": 21
-          },
-          {
-            "module": "Loops and Functions",
-            "duration": 13
-          },
-          {
-            "module": "ES-6 Syntax",
-            "duration": 129
-          },
-          {
-            "module": "Deep dive into ES-6",
-            "duration": 523
-          },
-          {
-            "module": "JavaScript Advanced Concepts",
-            "duration": 232
-          }
-        ],
-        "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+  {
+    "_id": "0282e0e58a5c404fbd25s61f11c2ab6a",
+    "others_info": {
+      "is_best_seller": false,
+      "is_trending": true
+    },
+    "category_id": "javascript",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": { "number": 2339, "discount": "30" },
+    "total_enrolled": 488,
+    "title": "Learn to Code with Ruby",
+    "instructor": {
+      "name": "Boris Paskhaver",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-b.udemycdn.com/user/200_H/7947666_5e30_4.jpg"
+    },
+    "course_modules": [
+      {
+        "module": "Introduction and Installation",
+        "duration": 13
       },
       {
-        "_id": "0282e0e58a5c404fbd2sg61f11c2ab6a",
-        "others_info": {
-          "is_best_seller": false,
-          "is_trending": true
-        },
-        "category_id": "python",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 999, "discount": "30" },
-        "total_enrolled": 488,
-        "title": "Learn Data Structure And Algorithm By Solving Problems With JavaScript",
-        "instructor": {
-          "name": "Jakie Chan",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80"
-        },
-        "course_modules": [
-          {
-            "module": "Basic Introduction Of JavaScript",
-            "duration": 13
-          },
-          {
-            "module": "JavaScript Variables",
-            "duration": 19
-          },
-          {
-            "module": "JavaScript Data Types",
-            "duration": 25
-          },
-          {
-            "module": "Basic Thoury About Execution Context",
-            "duration": 12
-          },
-          {
-            "module": "JavaScript 'This' keyword",
-            "duration": 21
-          },
-          {
-            "module": "Loops and Functions",
-            "duration": 13
-          },
-          {
-            "module": "ES-6 Syntax",
-            "duration": 129
-          },
-          {
-            "module": "Deep dive into ES-6",
-            "duration": 523
-          },
-          {
-            "module": "JavaScript Advanced Concepts",
-            "duration": 232
-          }
-        ],
-        "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+        "module": "Getting Started",
+        "duration": 19
       },
       {
-        "_id": "02852de58a5c404fbd15261f11c2ab6a",
-        "others_info": {
-          "is_best_seller": false,
-          "is_trending": true
-        },
-        "category_id": "R",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 999, "discount": "30" },
-        "total_enrolled": 488,
-        "title": "Introduction to Web Development",
-        "instructor": {
-          "name": "TilDa Dalami",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80"
-        },
-        "course_modules": [
-          {
-            "module": "Getting Started with HTML",
-            "duration": 13
-          },
-          {
-            "module": "Learn Css",
-            "duration": 19
-          },
-          {
-            "module": "JavaScript Basics",
-            "duration": 25
-          },
-          {
-            "module": "Basic Thoury About Execution Context",
-            "duration": 12
-          },
-          {
-            "module": "JavaScript 'This' keyword",
-            "duration": 21
-          },
-          {
-            "module": "Loops and Functions",
-            "duration": 13
-          },
-          {
-            "module": "ES-6 Syntax",
-            "duration": 129
-          },
-          {
-            "module": "Deep dive into ES-6",
-            "duration": 523
-          },
-          {
-            "module": "JavaScript Advanced Concepts",
-            "duration": 232
-          }
-        ],
-        "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+        "module": "Numbers And Booleans",
+        "duration": 25
       },
       {
-        "_id": "0282e0e58a5c404fbd15261f11c5sw6a",
-        "others_info": {
-          "is_best_seller": false,
-          "is_trending": true
-        },
-        "category_id": "Ruby Rails",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 999, "discount": "30" },
-        "total_enrolled": 488,
-        "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
-        "instructor": {
-          "name": "LinO Hrris",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80"
-        },
-        "course_modules": [
-          {
-            "module": "Installling Python",
-            "duration": 13
-          },
-          {
-            "module": "Python Variables",
-            "duration": 19
-          },
-          {
-            "module": "Python Data Types",
-            "duration": 25
-          },
-          {
-            "module": "Basic Thoury About Execution Context",
-            "duration": 12
-          },
-          {
-            "module": "Python 'This' keyword",
-            "duration": 21
-          },
-          {
-            "module": "Loops and Functions",
-            "duration": 13
-          },
-          {
-            "module": "Machine Learning With Python",
-            "duration": 129
-          },
-          {
-            "module": "Deep dive into Python",
-            "duration": 523
-          },
-          {
-            "module": "Python Advanced Concepts",
-            "duration": 232
-          }
-        ],
-        "thumbnail_url":  "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "details": "You will learn how to write Python programming language. You will learn how to build test Framework for Front-end and Back-end automation. You will learn how to write Selenium WebDriver scripts using the Python programming language. You will learn how to write Selenium WebDriver scripts using the Python programming language. Hands on training on Python Scripting will enable you to develop, understand and analyze scripts in Python. "
+        "module": "Strings I",
+        "duration": 12
       },
       {
-        "_id": "0ks9e0e58a5c404fbd15261f11c2ab6a",
-        "others_info": {
-          "is_best_seller": false,
-          "is_trending": true
-        },
-        "category_id": "Java",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 999, "discount": "30" },
-        "total_enrolled": 488,
-        "title": "The Complete Python Course | Learn Python by Doing in 2022",
-        "instructor": {
-          "name": "Roff Develli",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80"
-        },
-        "course_modules": [
-          {
-            "module": "Basic Introduction Of JavaScript",
-            "duration": 13
-          },
-          {
-            "module": "JavaScript Variables",
-            "duration": 19
-          },
-          {
-            "module": "JavaScript Data Types",
-            "duration": 25
-          },
-          {
-            "module": "Basic Thoury About Execution Context",
-            "duration": 12
-          },
-          {
-            "module": "JavaScript 'This' keyword",
-            "duration": 21
-          },
-          {
-            "module": "Loops and Functions",
-            "duration": 13
-          },
-          {
-            "module": "ES-6 Syntax",
-            "duration": 129
-          },
-          {
-            "module": "Deep dive into ES-6",
-            "duration": 523
-          },
-          {
-            "module": "JavaScript Advanced Concepts",
-            "duration": 232
-          }
-        ],
-        "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+        "module": "Method And Conditionals I",
+        "duration": 21
       },
       {
-        "_id": "0282eks98a5c404fbd15261f11c2ab6a",
-        "others_info": {
-          "is_best_seller": false,
-          "is_trending": true
-        },
-        "category_id": "C++",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 999, "discount": "30" },
-        "total_enrolled": 488,
-        "title": "The Complete NodeJS Course | Learn NOdeJS by Doing Projects in 2022",
-        "instructor": {
-          "name": "Justin Eiolth",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80"
-        },
-        "course_modules": [
-          {
-            "module": "Basic Introduction Of JavaScript",
-            "duration": 13
-          },
-          {
-            "module": "JavaScript Variables",
-            "duration": 19
-          },
-          {
-            "module": "JavaScript Data Types",
-            "duration": 25
-          },
-          {
-            "module": "Basic Thoury About Execution Context",
-            "duration": 12
-          },
-          {
-            "module": "JavaScript 'This' keyword",
-            "duration": 21
-          },
-          {
-            "module": "Loops and Functions",
-            "duration": 13
-          },
-          {
-            "module": "ES-6 Syntax",
-            "duration": 129
-          },
-          {
-            "module": "Deep dive into ES-6",
-            "duration": 523
-          },
-          {
-            "module": "JavaScript Advanced Concepts",
-            "duration": 232
-          }
-        ],
-        "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+        "module": "Method And Conditionals II",
+        "duration": 13
       },
       {
-        "_id": "0282e0e58a5c40ls9d15261f11c2ab6a",
-        "others_info": {
-          "is_best_seller": false,
-          "is_trending": true
-        },
-        "category_id": "PHP",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 999, "discount": "30" },
-        "total_enrolled": 488,
-        "title": "The Complete Ruby Course | Explore Ruby in 2022",
-        "instructor": {
-          "name": "Alex QUalis",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80"
-        },
-        "course_modules": [
-          {
-            "module": "Basic Introduction Of Ruby",
-            "duration": 13
-          },
-          {
-            "module": "Ruby Variables",
-            "duration": 19
-          },
-          {
-            "module": "Ruby Data Types",
-            "duration": 25
-          },
-          {
-            "module": "Basic Thoury About Execution Context",
-            "duration": 12
-          },
-          {
-            "module": "Ruby Weired Things",
-            "duration": 21
-          },
-          {
-            "module": "Loops and Functions",
-            "duration": 13
-          },
-          {
-            "module": "Ruby Mining",
-            "duration": 129
-          },
-          {
-            "module": "Deep dive into Ruby",
-            "duration": 523
-          },
-          {
-            "module": "Ruby Advanced Concepts",
-            "duration": 232
-          }
-        ],
-        "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+        "module": "Ranges",
+        "duration": 129
       },
       {
-        "_id": "0282e0e58a5c4slsbd15261f11c2ab6a",
-        "others_info": {
-          "is_best_seller": false,
-          "is_trending": true
-        },
-        "category_id": "C#",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "price": { "number": 999, "discount": "30" },
-        "total_enrolled": 488,
-        "title": "The Complete Python Course | Learn Python by Doing in 2022",
-        "instructor": {
-          "name": "Frank Tailwood",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80"
-        },
-        "course_modules": [
-          {
-            "module": "Basic Introduction Of JavaScript",
-            "duration": 13
-          },
-          {
-            "module": "JavaScript Variables",
-            "duration": 19
-          },
-          {
-            "module": "JavaScript Data Types",
-            "duration": 25
-          },
-          {
-            "module": "Basic Thoury About Execution Context",
-            "duration": 12
-          },
-          {
-            "module": "JavaScript 'This' keyword",
-            "duration": 21
-          },
-          {
-            "module": "Loops and Functions",
-            "duration": 13
-          },
-          {
-            "module": "ES-6 Syntax",
-            "duration": 129
-          },
-          {
-            "module": "Deep dive into ES-6",
-            "duration": 523
-          },
-          {
-            "module": "JavaScript Advanced Concepts",
-            "duration": 232
-          }
-        ],
-        "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
-        "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+        "module": "Array I - creation, addition, Modificatin",
+        "duration": 523
+      },
+      {
+        "module": "Array II - iteration, various methods",
+        "duration": 232
+      },
+      {
+        "module": "Strings II",
+        "duration": 232
       }
+    ],
+    "thumbnail_url": "data:image/png;base64,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",
+    "image_url": "data:image/png;base64,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",
+    "details": "The most comprehensive Ruby course available on Udemy! An in-depth overview of coding with Ruby, a popular programming language renowned for its simplicity and elegance. Whether you've never written a line of code before or are looking to learn a brand new language, this course covers all bases! Learn to Code with Ruby offers more than 30+ hours of video tutorials, 250+ lectures, and dozens of quizzes and exercises to test your knowledge as you proceed through the course."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd2sg61f11c2ab6a",
+    "others_info": {
+      "is_best_seller": false,
+      "is_trending": true
+    },
+    "category_id": "python",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": { "number": 999, "discount": "30" },
+    "total_enrolled": 488,
+    "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+    "instructor": {
+      "name": "Dr. Angela Yu",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-b.udemycdn.com/user/200_H/31334738_a13c_3.jpg"
+    },
+    "course_modules": [
+      {
+        "module": "Day 1 - Beginner - Working with Variables in Python to Manage Data",
+        "duration": 13
+      },
+      {
+        "module": "Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings",
+        "duration": 19
+      },
+      {
+        "module": "Day 3 - Beginner - Control Flow and Logical Operators",
+        "duration": 25
+      },
+      {
+        "module": "Day 4 - Beginner - Randomisation and Python Lists",
+        "duration": 12
+      },
+      {
+        "module": "Day 5 - Beginner - Python Loops",
+        "duration": 21
+      },
+      {
+        "module": "Day 6 - Beginner - Python Functions & Karel",
+        "duration": 13
+      },
+      {
+        "module": "Day 7 - Beginner - Hangman",
+        "duration": 129
+      },
+      {
+        "module": "Day 8 - Beginner - Function Parameters & Caesar Cipher",
+        "duration": 523
+      },
+      {
+        "module": "Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction",
+        "duration": 232
+      },
+      {
+        "module": "Day 10 - Beginner - Functions with Outputs",
+        "duration": 232
+      }
+    ],
+    "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
+    "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
+    "details": "This course will introduce you to a very exciting and highly popular Machine Learning. You'll get applied experience in major areas of Machine Learning which include Prediction, Classification, Clustering and Information Retrieval. Learn to analyze large & complex datasets, build systems that adapt and improve over a period of time, and develop smart applications to make predictions from data."
+  },
+  {
+    "_id": "02852de58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_best_seller": false,
+      "is_trending": true
+    },
+    "category_id": "R",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": { "number": 999, "discount": "30" },
+    "total_enrolled": 488,
+    "title": "Data Science and Machine Learning Bootcamp with R",
+    "instructor": {
+      "name": "Jose Portilla",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-b.udemycdn.com/user/200_H/9685726_67e7_4.jpg"
+    },
+    "course_modules": [
+      {
+        "module": "Course Introduction",
+        "duration": 13
+      },
+      {
+        "module": "Course Best Practices",
+        "duration": 19
+      },
+      {
+        "module": "Windows Installation Set-Up",
+        "duration": 25
+      },
+      {
+        "module": "Mac OS Installation Set-Up",
+        "duration": 12
+      },
+      {
+        "module": "Linux Installation",
+        "duration": 21
+      },
+      {
+        "module": "Development Environment Overview",
+        "duration": 13
+      },
+      {
+        "module": "Introduction to R Basics",
+        "duration": 129
+      },
+      {
+        "module": "R Matrices",
+        "duration": 523
+      },
+      {
+        "module": "R Data Frames",
+        "duration": 232
+      },
+      {
+        "module": "R Lists",
+        "duration": 232
+      }
+    ],
+    "thumbnail_url": "https://miro.medium.com/max/990/0*l9-9V7yetcbz-YKC.jpg",
+    "image_url": "https://miro.medium.com/max/990/0*l9-9V7yetcbz-YKC.jpg",
+    "details": "Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems! This course is designed for both complete beginners with no programming experience or experienced developers looking to make the jump to Data Science!"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c5sw6a",
+    "others_info": {
+      "is_best_seller": false,
+      "is_trending": true
+    },
+    "category_id": "c#",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": { "number": 999, "discount": "30" },
+    "total_enrolled": 488,
+    "title": "Complete C# Masterclass",
+    "instructor": {
+      "name": "Denis Panjuta",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-b.udemycdn.com/user/200_H/4573650_9792_2.jpg"
+    },
+    "course_modules": [
+      {
+        "module": "Your First C# Programm And Overview Of Visual Studio",
+        "duration": 13
+      },
+      {
+        "module": "DataTypes And Variables",
+        "duration": 19
+      },
+      {
+        "module": "Functions / Methods And How To Save Time",
+        "duration": 25
+      },
+      {
+        "module": "Making Decisions",
+        "duration": 12
+      },
+      {
+        "module": "Loops",
+        "duration": 21
+      },
+      {
+        "module": "Object Oriented Programming (OOP)",
+        "duration": 13
+      },
+      {
+        "module": "Collections in C#",
+        "duration": 129
+      },
+      {
+        "module": "Debugging",
+        "duration": 523
+      },
+      {
+        "module": "Inheritance And More About OOP",
+        "duration": 232
+      },
+      {
+        "module": "Polymorphism And Even More On OOP + Text Files",
+        "duration": 232
+      }
+    ],
+    "thumbnail_url": "https://resources.reed.co.uk/courses/coursemedia/325926/cb42003a-9b4f-445b-93a9-a6cd5511bf02_cover.jpg",
+    "image_url": "https://resources.reed.co.uk/courses/coursemedia/325926/cb42003a-9b4f-445b-93a9-a6cd5511bf02_cover.jpg",
+    "details": "Maybe you want to work as a developer? Then you are in the right place. In this course, you are going to discover how to become a c# developer - one of the best programming languages on earth! C# is one of the few programming languages which allows you to create amazing cross-platform Mobile Apps, Games, and PC Programs. As C# can be used for multiple different areas of programming, I have decided to cover the most important ones. So I have added a whole bunch of chapters specifically designed for a C# developer and Unity game developer - arguably the best Game Engine in the world. In those chapters, you will discover how to create your very own video games by building pong, the mother of video games and zig-zag, an amazing and successful endless runner game. "
+  },
+  {
+    "_id": "0ks9e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_best_seller": false,
+      "is_trending": true
+    },
+    "category_id": "Java",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": { "number": 999, "discount": "30" },
+    "total_enrolled": 488,
+    "title": "Java Programming Masterclass covering Java 11 & Java 17",
+    "instructor": {
+      "name": "Tim Buchalka",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-b.udemycdn.com/user/200_H/599932_71aa_5.jpg"
+    },
+    "course_modules": [
+      {
+        "module": "Course Introduction",
+        "duration": 13
+      },
+      {
+        "module": "Software Tools Setup",
+        "duration": 19
+      },
+      {
+        "module": "First Steps",
+        "duration": 25
+      },
+      {
+        "module": "Java Tutorial: Expressions, Statements, Code blocks, Methods and more",
+        "duration": 12
+      },
+      {
+        "module": "Control Flow Statements",
+        "duration": 21
+      },
+      {
+        "module": "OOP Part 1 - Classes, Constructors and Inheritance",
+        "duration": 13
+      },
+      {
+        "module": "OOP Part 2 - Composition, Encapsulation, and Polymorphism",
+        "duration": 129
+      },
+      {
+        "module": "Arrays, Java inbuilt Lists, Autoboxing and Unboxing",
+        "duration": 523
+      },
+      {
+        "module": "Inner and Abstract Classes & Interfaces",
+        "duration": 232
+      },
+      {
+        "module": "Java Generics",
+        "duration": 232
+      }
+    ],
+    "thumbnail_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
+    "image_url": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
+    "details": "You’ve just stumbled upon the most complete, in-depth Java programming course online. With close to 600,000 students enrolled and over one hundred and forty thousand reviews (with tens of thousands of those 5-star) to date, these comprehensive java tutorials cover everything you’ll ever need.Are you aiming to get your first Java Programming job but struggling to find out what skills employers want and which course will give you those skills?This course is designed to give you the Java skills you need to get a job as a Java developer.  By the end of the course, you will understand Java extremely well and be able to build your own Java apps and be productive as a software developer. "
+  },
+  {
+    "_id": "0282eks98a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_best_seller": false,
+      "is_trending": true
+    },
+    "category_id": "C++",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": { "number": 999, "discount": "30" },
+    "total_enrolled": 488,
+    "title": "Beginning C++ Programming - From Beginner to Beyond",
+    "instructor": {
+      "name": "Dr. Frank Mitropoulos",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-b.udemycdn.com/user/200_H/33518230_62f0_6.jpg"
+    },
+    "course_modules": [
+      {
+        "module": "Introduction",
+        "duration": 13
+      },
+      {
+        "module": "Installation and Setup",
+        "duration": 19
+      },
+      {
+        "module": "Getting Started",
+        "duration": 25
+      },
+      {
+        "module": "Structure of a C++ Program",
+        "duration": 12
+      },
+      {
+        "module": "Variables and Constants",
+        "duration": 21
+      },
+      {
+        "module": "Arrays and Vectors",
+        "duration": 13
+      },
+      {
+        "module": "Statements and Operators",
+        "duration": 129
+      },
+      {
+        "module": "Controlling Program Flow",
+        "duration": 523
+      },
+      {
+        "module": "Characters and Strings",
+        "duration": 232
+      }
+    ],
+    "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tu2z9cvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/696/1%2A6UpwEDOw04H5fKyaMGXpSw.png",
+    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tu2z9cvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/696/1%2A6UpwEDOw04H5fKyaMGXpSw.png",
+    "details": "Which programming language is often seen as a badge of honor among software developers?  C++ Which programming language can you abroa learn that when added to your resume,  will often get you a job interview?  C++ Which programming language is routinely ranked in the top 5 programming languages by popularity, and been consistently in the top 10 for close to 20 years?  C++The course assumes no previous experience with C++ (or even programming in general), and you will end up with the skills to create your own programs in C++."
+  },
+  {
+    "_id": "0282e0e58a5c40ls9d15261f11c2ab6a",
+    "others_info": {
+      "is_best_seller": false,
+      "is_trending": true
+    },
+    "category_id": "PHP",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": { "number": 999, "discount": "30" },
+    "total_enrolled": 488,
+    "title": "PHP for Beginners - Become a PHP Master - CMS Project",
+    "instructor": {
+      "name": "Edwin Diaz",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-b.udemycdn.com/user/200_H/6772884_fcfc_2.jpg"
+    },
+    "course_modules": [
+      {
+        "module": "The First Steps",
+        "duration": 13
+      },
+      {
+        "module": "Data Types and More",
+        "duration": 19
+      },
+      {
+        "module": "Control Structures",
+        "duration": 25
+      },
+      {
+        "module": "Custom Functions",
+        "duration": 12
+      },
+      {
+        "module": "PHP Built-in Functions",
+        "duration": 21
+      },
+      {
+        "module": "PHP Built-in Functions",
+        "duration": 13
+      },
+      {
+        "module": "How To Use Form Data in PHP",
+        "duration": 129
+      },
+      {
+        "module": "How To Use Databases in PHP",
+        "duration": 523
+      },
+      {
+        "module": "PHP Security",
+        "duration": 232
+      },
+      {
+        "module": "PHP and The Web",
+        "duration": 232
+      },
+      {
+        "module": "Object Oriented PHP Introduction",
+        "duration": 232
+      }
+    ],
+    "thumbnail_url": "https://contentstatic.techgig.com/photo/msid-81637605,width-400,resizemode-4/Pros-and-cons-of-PHP-programming-language-that-every-developer-must-know.jpg",
+    "image_url": "https://contentstatic.techgig.com/photo/msid-81637605,width-400,resizemode-4/Pros-and-cons-of-PHP-programming-language-that-every-developer-must-know.jpg",
+    "details": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal. Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications. Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google.There is no limit to what you can do with this knowledge. PHP is one of the most important web programming languages to learn, and knowing it, will give you SUPER POWERS in the web development world and job market place. "
+  },
+  {
+    "_id": "0282e0e58a5c4slsbd15261f11c2ab6a",
+    "others_info": {
+      "is_best_seller": false,
+      "is_trending": true
+    },
+    "category_id": "C#",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": { "number": 999, "discount": "30" },
+    "total_enrolled": 488,
+    "title": "Ultimate Rust Crash Course",
+    "instructor": {
+      "name": "Nathan Stocks",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-b.udemycdn.com/user/200_H/9195680_5ddb_3.jpg"
+    },
+    "course_modules": [
+      {
+        "module": "Introduction",
+        "duration": 13
+      },
+      {
+        "module": "Fundamentals",
+        "duration": 19
+      },
+      {
+        "module": "Primitive Types & Control Flow",
+        "duration": 25
+      },
+      {
+        "module": "The Heart of Rust",
+        "duration": 12
+      },
+      {
+        "module": "The Meat of Rust",
+        "duration": 21
+      },
+      {
+        "module": "Final Lectures",
+        "duration": 13
+      },
+      {
+        "module": "Project - Invaders",
+        "duration": 129
+      },
+      {
+        "module": "Final Words",
+        "duration": 523
+      }
+    ],
+    "thumbnail_url": "https://c4.wallpaperflare.com/wallpaper/888/898/476/coding-logo-mozilla-firefox-programming-language-wallpaper-preview.jpg",
+    "image_url": "https://c4.wallpaperflare.com/wallpaper/888/898/476/coding-logo-mozilla-firefox-programming-language-wallpaper-preview.jpg",
+    "details": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy!"
+  }
 ]
